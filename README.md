@@ -1,17 +1,13 @@
 # Daniel Yates
-## Final Year Computer Science Student
+#### Final Year Computer Science Student at the University of the West of England
 
-<!--
-**YatesyTea/YatesyTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Constantly improving at my craft
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my [Final Year Project](https://github.com/yatesytea/dsptrain), and [Enterprise Systems Development](https://github.com/yatsesytea/esd8smartcare)
+- 🌱 I’m currently learning Django, Pandas, and other Python Frameworks.
+- 💬 Ask me about any Data Analysis, and Python Job opportunities.
+- 📫 How to reach me: [danyates1997@googlemail.com](danyates1997@googlemail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a Cat:
+
+![CatHub](README.assets/catHub.jpg)
