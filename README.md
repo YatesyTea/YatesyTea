@@ -1,4 +1,5 @@
-### Hi there 👋
+# Daniel Yates
+## Final Year Computer Science Student
 
 <!--
 **YatesyTea/YatesyTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
