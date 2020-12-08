@@ -1,5 +1,6 @@
 # Daniel Yates
 #### Final Year Computer Science Student at the University of the West of England
+#### Darkmode, Mindfulness, Cat, and Food Lover
 
 #### Constantly improving at my craft
 
