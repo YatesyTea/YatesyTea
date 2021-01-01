@@ -1,6 +1,7 @@
 # Daniel Yates
 #### Final Year Computer Science Student at the University of the West of England
-#### Darkmode, Mindfulness, Cat, and Food Lover
+#### Github, Python Libraries, and VSCode.
+#### Agile Practitioner.
 
 #### Constantly improving at my craft
 
