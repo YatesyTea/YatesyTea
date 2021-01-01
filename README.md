@@ -8,7 +8,3 @@
 - 🌱 I’m currently learning Django, Pandas, and other Python Frameworks.
 - 💬 Ask me about any Data Analysis, and Python Job opportunities.
 - 📫 How to reach me: [danyates1997@googlemail.com](danyates1997@googlemail.com)
-
-Here's a Cat:
-
-![CatHub](README.assets/catHub.jpg)
