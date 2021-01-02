@@ -2,6 +2,7 @@
 #### Final Year Computer Science Student at the University of the West of England
 #### Github, Python Libraries, and VSCode.
 #### Agile Practitioner.
+#### TDD Makes sense chief.
 
 #### Constantly improving at my craft
 
