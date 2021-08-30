@@ -5,7 +5,7 @@
 
 #### Constantly improving at my craft
 
-- 🔭 I’m currently working on my [Final Year Project](https://github.com/yatesytea/dsptrain), and [Enterprise Systems Development](https://github.com/yatsesytea/esd8smartcare)
-- 🌱 I’m currently learning Django, Pandas, and other Python Frameworks.
-- 💬 Ask me about any Data Analysis, and Python Job opportunities.
-- 📫 How to reach me: [danyates1997@googlemail.com](danyates1997@googlemail.com)
+- 🔭 Have completed my [Final Year Project](https://github.com/yatesytea/dspFlask), and [Enterprise Systems Development](https://github.com/yatsesytea/esd8smartcare)
+- 🌱 I’m currently learning NextJS, Django, Pandas and other Python Libraries.
+- 💬 Ask me about any Data Analysis, and NextJS job opportunities.
+- 📫 How to reach me: [email](danyates1997@googlemail.com), [linkedIn](https://www.linkedin.com/in/yatesytea/)
