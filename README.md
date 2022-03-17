@@ -1,5 +1,5 @@
 # Daniel Yates
-#### Final Year Computer Science Student at the University of the West of England
+#### Computer Science Graduate
 #### Github, Python Libraries, and VSCode.
 #### Agile Practitioner.
 
