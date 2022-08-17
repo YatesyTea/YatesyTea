@@ -1,7 +1,5 @@
 # Daniel Yates
-#### ITC Consultant
-#### IOS Developer
-#### Agile Practitioner
+#### ITC Consultatnt // IOS Developer // Agile Practitioner
 
 #### Constantly improving at my craft
 
