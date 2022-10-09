@@ -1,5 +1,5 @@
 # Daniel Yates
-![Blossoms](README.resources/blossoms.jpg)
+<img src="README.resources/blossoms.jpeg" alt="Blossoms">
 ## Python Framework Specialist 🐍
 
 💬 Ask me about any DevOps and Python Framework job opportunities. </br>
