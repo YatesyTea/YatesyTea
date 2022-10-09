@@ -1,9 +1,16 @@
 # Daniel Yates
-#### Computer Science Graduate
-#### Flask, Django Developer
-#### Agile Practitioner
-#### Constantly improving at my craft
-🌱 I’m currently improving my skill in AWS as well as Flask, Pandas and other Python Libraries. </br>
-📚 Have been experimenting with Svelte and other JavaScript web development frameworks (tried out some flutter as well). </br>
-💬 Ask me about any DevOps and Flask/Django job opportunities. </br>
+![Blossoms](README.resources/blossoms.jpg)
+## Python Framework Specialist 🐍
+
+💬 Ask me about any DevOps and Python Framework job opportunities. </br>
 📫 How to reach me: [Email](mailto:danyates1997@gmail.com), [LinkedIn](https://www.linkedin.com/in/yatesytea/). </br>
+
+## Currently Upskiling In 📚
+* Python through the [LinkedIn Learning Certification](https://github.com/YatesyTea/LinkedIn-Python) and [Hacker Rank Questions](https://github.com/yatesytea/HrankPython)
+* Django through a [Date Ideas App](https://github.com/YatesyTea/django-date-ideas).
+* AWS through the AWS Skill Builder Certification.
+* Svelte through the REPL tutorial course.
+
+## Other Skills
+* [Experience with JSP and Servlets Including Web Services](https://github.com/YatesyTea/esd8SmartCare)
+* [Experience using APIs with both JS and PHP](https://github.com/YatesyTea/ATIWD2-CW)
