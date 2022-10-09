@@ -24,9 +24,9 @@
 * Bash Scripting for Fedora install.
 * Vim and NeoVim for editing and navigation of projects.
 * Have daily driven all major operating systems:
- * Windows - Winget, WSL with Docker, VSC integrations with Docker.
- * Linux (Ubuntu 18.04 and Fedora 36) - Apt, Rpm, Bash, Boxes, Docker, Flatpak.
- * MacOS - Brew, Xcode.
+  * Windows - Winget, WSL with Docker, VSC integrations with Docker.
+  * Linux (Ubuntu 18.04 and Fedora 36) - Apt, Rpm, Bash, Boxes, Docker, Flatpak.
+  * MacOS - Brew, Xcode.
  
  ## Hobbies
  * Self taught piano, attending open mic nights. [soundcloud](https://soundcloud.com/yatesytea)
