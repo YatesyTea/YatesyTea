@@ -23,3 +23,17 @@
 * C for basic algorithmn implementations.
 * Bash Scripting for Fedora install.
 * Vim and NeoVim for editing and navigation of projects.
+* Have daily driven all major operating systems:
+ * Windows - Winget, WSL with Docker, VSC integrations with Docker.
+ * Linux (Ubuntu 18.04 and Fedora 36) - Apt, Rpm, Bash, Boxes, Docker, Flatpak.
+ * MacOS - Brew, Xcode.
+ 
+ ## Hobbies
+ * Self taught piano, attending open mic nights. [soundcloud](https://soundcloud.com/yatesytea)
+ * Learning foods from around the world (do feel free to message me some good recipes!)
+ * Soldering mechanical keyboards.
+ * Cocktail making.
+ * Sewing.
+ * And my favourite, gong fu brewing of tea!
+ 
+ Thanks for Reading this, and hope you enjoy the pinned projects below.
