@@ -13,16 +13,20 @@
 * Svelte through the REPL tutorial course.
 
 ## Other Skills
+### Languages
 * [Experience with JSP and Servlets Including Web Services.](https://github.com/YatesyTea/esd8SmartCare)
 * [Experience using APIs with both JS and PHP.](https://github.com/YatesyTea/ATIWD2-CW)
+
+### Documentation and CI
 * Experience in Agile environment, with scrum management.
-* Usage of Jira, Trello, Github Projects, Google Sheets, and Microsoft Project for project planning.
   * Including Project Kanban, Burndown, Project and Sprint Backlogs.
-* Usage of Git through terminal and SSH.
+* Creation of User Stories, Use Case Diagrams, and Feature Lists.
+  * Used Astah and Star UML tooling.
+
+### Tools
 * LaTeX for final year project and CV creation.
-* C for basic algorithmn implementations.
-* Bash Scripting for Fedora install.
 * Vim and NeoVim for editing and navigation of projects.
+* Usage of Jira, Trello, Github Projects, Google Sheets, and Microsoft Project for project planning.
 * Have daily driven all major operating systems:
   * Windows - Winget, WSL with Docker, VSC integrations with Docker.
   * Linux (Ubuntu 18.04 and Fedora 36) - Apt, Rpm, Bash, Boxes, Docker, Flatpak.
