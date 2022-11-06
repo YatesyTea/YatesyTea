@@ -1,21 +1,16 @@
 # Daniel Yates
 <img src="README.resources/blossoms.jpeg" alt="Blossoms">
 
-## Python Framework Specialist 🐍
-
-💬 Ask me about any DevOps and Python Framework job opportunities. </br>
+# JavaScript Developer for Cambridge Kinetics
+💬 Enquire about help with open source or charity projects </br> 
 📫 How to reach me: [Email](mailto:danyates1997@gmail.com), [LinkedIn.](https://www.linkedin.com/in/yatesytea/) </br>
 
 ## Currently Upskiling In 📚
+* React / React Native through building of applications.
 * Python through the [LinkedIn Learning Certification](https://github.com/YatesyTea/LinkedIn-Python) and [Hacker Rank Questions.](https://github.com/yatesytea/HrankPython)
-* Django through a [Date Ideas App.](https://github.com/YatesyTea/django-date-ideas)
 * AWS through the AWS Skill Builder Certification.
-* Svelte through the REPL tutorial course.
 
 ## Other Skills
-### Languages
-* [Experience with JSP and Servlets Including Web Services.](https://github.com/YatesyTea/esd8SmartCare)
-* [Experience using APIs with both JS and PHP.](https://github.com/YatesyTea/ATIWD2-CW)
 
 ### Documentation and CI
 * Experience in Agile environment, with scrum management.
@@ -25,7 +20,7 @@
 
 ### Tools
 * LaTeX for final year project and CV creation.
-* Vim and NeoVim for editing and navigation of projects.
+* Vim and NeoVim for editing remotely. 
 * Usage of Jira, Trello, Github Projects, Google Sheets, and Microsoft Project for project planning.
 * Have daily driven all major operating systems:
   * Windows - Winget, WSL with Docker, VSC integrations with Docker.
