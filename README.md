@@ -3,11 +3,12 @@
 
 # JavaScript Developer for Cambridge Kinetics
 💬 Enquire about help with open source or charity projects </br> 
-📫 How to reach me: [Email](mailto:danyates1997@gmail.com), [LinkedIn.](https://www.linkedin.com/in/yatesytea/) </br>
+📫 How to reach me: [Email](mailto:yates.dev@outlook.com), [LinkedIn.](https://www.linkedin.com/in/yates-dev/) </br>
 
 ## Currently Upskiling In 📚
-* React / React Native through building of applications.
-* Python through the [LinkedIn Learning Certification](https://github.com/YatesyTea/LinkedIn-Python) and [Hacker Rank Questions.](https://github.com/yatesytea/HrankPython)
+* React / Vue through current position.
+* Svelte/kit through personal projects such as [Poem of the Day Page](https://stooti-poems-app.vercel.app/)
+* Test Development with Playwright for a new application [Kinabase](https://app.kinabase.com)
 * AWS through the AWS Skill Builder Certification.
 
 ## Other Skills
