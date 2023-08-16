@@ -18,6 +18,7 @@
   * Including Project Kanban, Burndown, Project and Sprint Backlogs.
 * Creation of User Stories, Use Case Diagrams, and Feature Lists.
   * Used Astah and Star UML tooling.
+* Overseeing implementation and adherence to ISO 27001 practices and conforming to ISO 9001 standards.
 
 ### Tools
 * LaTeX for final year project and CV creation.
