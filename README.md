@@ -1,14 +1,14 @@
 # Daniel Yates
 <img src="README.resources/blossoms.jpeg" alt="Blossoms">
 
-# JavaScript Developer for Cambridge Kinetics
+# Software Test Engineer for Cambridge Kinetics
 💬 Enquire about help with open source or charity projects </br> 
 📫 How to reach me: [Email](mailto:yates.dev@outlook.com), [LinkedIn.](https://www.linkedin.com/in/yates-dev/) </br>
 
 ## Currently Upskiling In 📚
+* Test Development with Playwright for a new application [Kinabase](https://app.kinabase.com).
 * React / Vue through current position.
-* Svelte/kit through personal projects such as [Poem of the Day Page](https://stooti-poems-app.vercel.app/)
-* Test Development with Playwright for a new application [Kinabase](https://app.kinabase.com)
+* Svelte/kit through personal projects such as [Poem of the Day Page](https://stooti-poems-app.vercel.app/).
 * AWS through the AWS Skill Builder Certification.
 
 ## Other Skills
@@ -21,6 +21,7 @@
 * Overseeing implementation and adherence to ISO 27001 practices and conforming to ISO 9001 standards.
 
 ### Tools
+* Heavy usage of VSCode, Linear, and Cypress/Playwright Suites.
 * LaTeX for final year project and CV creation.
 * Vim and NeoVim for editing remotely. 
 * Usage of Jira, Trello, Github Projects, Google Sheets, and Microsoft Project for project planning.
@@ -33,8 +34,6 @@
  * Self taught piano, attending open mic nights. [soundcloud](https://soundcloud.com/yatesytea)
  * Learning foods from around the world (do feel free to message me some good recipes!)
  * Soldering mechanical keyboards.
- * Cocktail making.
- * Sewing.
  * And my favourite, gong fu brewing of tea!
  
  Thanks for Reading this, and hope you enjoy the pinned projects below.
