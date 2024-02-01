@@ -2,36 +2,43 @@
 <img src="README.resources/blossoms.jpeg" alt="Blossoms">
 
 # Software Test Engineer for Cambridge Kinetics
-💬 Enquire about help with open source or charity projects </br> 
-📫 How to reach me: [Email](mailto:yates.dev@outlook.com), [LinkedIn.](https://www.linkedin.com/in/yates-dev/) </br>
+💬 Enquire about help with open source or charity projects <br/>
+📫 How to reach me: [Email](mailto:yates.dev@outlook.com), [LinkedIn.](https://www.linkedin.com/in/yates-dev/)<br/>
+👍 Proud to be part of an ISO 9001 Certified company, and compliant with all requirements!
 
-## Currently Upskiling In 📚
-* Test Development with Playwright for a new application [Kinabase](https://app.kinabase.com).
-* React / Vue through current position.
-* Svelte/kit through personal projects such as [Poem of the Day Page](https://stooti-poems-app.vercel.app/).
-* AWS through the AWS Skill Builder Certification.
+Hi, I'm Dan,
 
-## Other Skills
+I've been very much enjoying my wide array of responsibilities in my current role, I believe it's given me a good purview of the overall software development cycle and am always looking for ways to improve each and every aspect of it!
 
-### Documentation and CI
+I make personal tools to deal with nitpicks / issues I've run into during my days at work or even for my friends or partner.
+
+I really enjoy drinking a variety of teas whilst I code almost as much as I enjoy clear and easy to navigate docs so a nearby kettle is an absolute must 🍵
+
+
+## Main Technologies
+* Playwright 🎭 e2e testing suite (Honestly this suite has the best docs I ❤️ them)
+* C# .Net
+* Typescript / Vue
+* Vitest suite
+* Astro 🚀
+* Linear for Project Management
+* Github CI/CD for testing pipelines and deployment
+
+## Other Experience
 * Experience in Agile environment, with scrum management.
   * Including Project Kanban, Burndown, Project and Sprint Backlogs.
 * Creation of User Stories, Use Case Diagrams, and Feature Lists.
   * Used Astah and Star UML tooling.
-* Overseeing implementation and adherence to ISO 27001 practices and conforming to ISO 9001 standards.
-
-### Tools
-* Heavy usage of VSCode, Linear, and Cypress/Playwright Suites.
 * LaTeX for final year project and CV creation.
-* Vim and NeoVim for editing remotely. 
-* Usage of Jira, Trello, Github Projects, Google Sheets, and Microsoft Project for project planning.
+* Vim and NeoVim for editing remotely.
+* Usage of Linear, Jira, Github Projects, Google Sheets, and Microsoft Project for project planning.
 * Have daily driven all major operating systems:
   * Windows - Winget, WSL with Docker, VSC integrations with Docker.
   * Linux (Ubuntu 18.04 and Fedora 36) - Apt, Rpm, Bash, Boxes, Docker, Flatpak.
   * MacOS - Brew, Xcode.
  
  ## Hobbies
- * Self taught piano, attending open mic nights. [soundcloud](https://soundcloud.com/yatesytea)
+ * Self taught piano, attending open mic nights.
  * Learning foods from around the world (do feel free to message me some good recipes!)
  * Soldering mechanical keyboards.
  * And my favourite, gong fu brewing of tea!
