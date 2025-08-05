@@ -1,10 +1,10 @@
 # Daniel Yates
 <img src="README.resources/blossoms.jpeg" alt="Blossoms">
 
-# Software Test Engineer for Cambridge Kinetics
+# Software Engineer for Tokenovate
 💬 Enquire about help with open source or charity projects <br/>
 📫 How to reach me: [Email](mailto:yates.dev@outlook.com), [LinkedIn.](https://www.linkedin.com/in/yates-dev/)<br/>
-👍 Proud to be part of an ISO 9001 Certified company, and compliant with all requirements!
+👍 Proud to be part of an ISO 27001 Certified company, and compliant with all requirements!
 
 Hi, I'm Dan,
 
@@ -17,12 +17,13 @@ I really enjoy drinking a variety of teas whilst I code almost as much as I enjo
 
 ## Main Technologies
 * Playwright 🎭 e2e testing suite (Honestly this suite has the best docs I ❤️ them)
+* Docker / Kubernetes
 * C# .Net
 * Typescript / Vue
 * Vitest suite
 * Astro 🚀
-* Linear for Project Management
-* Github CI/CD for testing pipelines and deployment
+* Jira / Linear for Project Management
+* Gitlab / Github CI/CD for testing pipelines and deployment
 
 ## Other Experience
 * Experience in Agile environment, with scrum management.
